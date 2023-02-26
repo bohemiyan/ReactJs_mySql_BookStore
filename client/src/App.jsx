@@ -4,7 +4,7 @@ import Books from "./pages/Books";
 import Update from "./pages/Update";
 import "./index.css"
 import "./style.scss"
-
+import Footer from"./Footer/Footer";
 
 
 
@@ -14,6 +14,7 @@ function App() {
 
 
   return (
+    <div>
     <div className="app">
       <BrowserRouter>
         <Routes>
@@ -22,6 +23,8 @@ function App() {
           <Route path="/update/:id" element={<Update />} />
         </Routes>
       </BrowserRouter>
+      </div>
+      <Footer/>
     </div>
   );
 }
