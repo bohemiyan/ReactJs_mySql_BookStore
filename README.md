@@ -1,9 +1,18 @@
-**Book_store_React_mySql**
- *Simple Book Store app. created using React in front end and mySql as server
+# Book Store App
+
+This is a web application built using ReactJS, Express, and MySQL that allows users to perform CRUD (Create, Read, Update, Delete) operations on a database of books.
+
+## Features
+The Book Store App has the following features:
+
+Display a list of all books in the database
+Add a new book to the database
+Edit an existing book in the database
+Delete a book from the database
  
- 
-**Server configuration**
-*Go to backend folder and change the configuration according to your server.
+## Server configuration
+
+Go to backend folder and change the configuration according to your server.
 
 Communication port configuration
 *Go to client>package.json
@@ -12,17 +21,10 @@ Communication port configuration
 **Backend and Proxy port must be same.**
 
 
+## Getting started
 
-
-
-*Go to server folder.
-*open terminal.
-* **npm start**
-
-
-*Go to client folder.
-*open terminal.
-*  **npm start**
+* ```cd backend > npm start```
+* ```cd client > npm start```
 
 
 <h1 align="center">Hi 👋, I'm Chirag Mandal</h1>
