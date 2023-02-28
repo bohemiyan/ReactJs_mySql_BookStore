@@ -40,7 +40,7 @@ Communication port configuration
 
 - 📫 How to reach me **chiragmnndl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13t-eUWATddOOcCxuN3P3hZLBSk9XAvF-/view?usp=share_link](https://drive.google.com/file/d/13t-eUWATddOOcCxuN3P3hZLBSk9XAvF-/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eWCoEDJdhj87QmvugE1O5_p1K9c2W_kH/view?usp=share_link](https://drive.google.com/file/d/13t-eUWATddOOcCxuN3P3hZLBSk9XAvF-/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
