@@ -12,7 +12,7 @@ Delete a book from the database
  
 ## Server configuration
 
-Go to backend folder and change the configuration according to your server.
+Go to backend folder and change the configuration according to your server in CONFIG.JS file.
 
 Communication port configuration
 *Go to client>package.json
