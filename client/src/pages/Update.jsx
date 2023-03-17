@@ -1,8 +1,7 @@
 import axios from "axios";
 import  {React, useState,useEffect} from "react";
-// import { useContext } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
-// import { StoreContext } from "../Contexts/StoreContext";
+
 
 const Update = () => {
   const [book, setBook] = useState({});
